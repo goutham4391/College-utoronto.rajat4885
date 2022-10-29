@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="52px" viewBox="0 0 58 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>drop-down-field-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="drop-down-field-arrow" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <g id="Programs-of-Study" sketch:type="MSShapeGroup">
+                <g id="Desktop-HD---Programs-of-Study-new-search">
+                    <g id="filters">
+                        <g id="degree-type">
+                            <g id="Group-2">
+                                <rect id="Rectangle-28" stroke="#337AB7" fill="#337AB7" x="0" y="7.10542736e-15" width="56" height="50" rx="2"></rect>
+                                <path d="M23,24 L29.1431381,24 L35,24 L29,30 L23,24 L23,24 Z" id="Triangle-1" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
